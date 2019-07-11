@@ -6,7 +6,7 @@ permalink: /master/courses
 
 ## Master's Degree Courses
 
-Click on GitHub icon to see projects done for a course or click to <a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a> see the main repository for Master's Degree Projects
+Click on GitHub icon to see projects done for a course or click to <a href="https://github.com/melikegecer/MastersProjects" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a> see the main repository for Master's Degree Projects
 
 <details>
 <summary>
@@ -72,7 +72,7 @@ Introduce basic concepts of concurrency
 <details>
 <summary>
 Design and Graphics Programming for Game Development
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/MastersProjects/tree/master/Design_and_Graphics_Programming_for_Game_Development" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 </summary>
 Design videogames
 <br>- Evaluate concepts and prototypes
@@ -124,7 +124,7 @@ Gather in-depth knowledge of an advanced topic/paper in data science: graph embe
 <details>
 <summary>
 Seminar: Natural Language Processing
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/MastersProjects/tree/master/Natural_Language_Processing" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 </summary>
 Conduct your own research (on a limited amount of data)
 <br>Able to read / interpret scientific papers
@@ -143,7 +143,7 @@ Conduct your own research (on a limited amount of data)
 <details>
 <summary>
 Seminar: Software Composition
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/MastersProjects/tree/master/Software_Composition_Seminar" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 </summary>
 After the successful completion of this course, you will be able to:
 <br>- Build an Eclipse plugin for static analysis, or

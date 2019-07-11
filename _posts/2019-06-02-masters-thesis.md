@@ -5,7 +5,7 @@ permalink: /master/thesis
 ---
 
 ## Master's Degree Thesis: Debugging Spark Applications
-See on GitHub <a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<!-- See on GitHub <a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a> -->
 
 Debugging is the key to identify errors in a software program. By which, important problems can be detected and avoided beforehand. Spark is an engine used to run analysis on large-scale data. Debugging Spark applications is especially significant as any tool, apart from log files, is not provided by Spark. However, an application may produce a lengthy log file which is challenging to examine.
 

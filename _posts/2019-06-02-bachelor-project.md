@@ -5,7 +5,7 @@ permalink: /bachelor/project
 ---
 
 ## Bachelor's Degree - The Project
-See on GitHub <a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+See on GitHub <a href="https://github.com/melikegecer/BachelorsThesis" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 
 ### CTS a NetBeans Plugin
 

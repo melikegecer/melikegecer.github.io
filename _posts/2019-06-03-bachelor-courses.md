@@ -6,7 +6,7 @@ permalink: /bachelor/courses
 
 ## Bachelor's Degree Courses
 
-Click on GitHub icon to see projects done for a course or click to <a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a> see the main repository for Bachelor's Degree Projects
+Click on GitHub icon to see projects done for a course or click to <a href="https://github.com/melikegecer/BachelorsProjects" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a> see the main repository for Bachelor's Degree Projects
 
 <details>
 <summary>
@@ -21,7 +21,7 @@ Introduction to the field of comuting. Overview of computing and their dependenc
 <summary>
 CSE111 - Fundamentals of Programming 
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE111_Fundamentals_of_Programming" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>
@@ -34,7 +34,7 @@ Introduction to computers, computer programs and the Java language, identifiers,
 <summary>
 CSE112 - Object Oriented Programming
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE112_Object_Oriented_Programming" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>
@@ -47,7 +47,7 @@ Objects and classes, constructors, static variables, constants and methods, visi
 <summary>
 CSE202 - Data Structures and Algorithms
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE202_Data_Structures_and_Algorithms" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>
@@ -60,7 +60,7 @@ Algorithm analysis, linked lists, stacks, queues, trees, hashing, priority queue
 <summary>
 CSE222 - Database Systems
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE222_Database_Systems" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
@@ -73,7 +73,7 @@ Entity-relationship model, database conceptual design, relational algebra, SQL, 
 <summary>
 CSE252 - Human Computer Interaction
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE252_Human_Computer_Interaction" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
@@ -104,7 +104,7 @@ Process abstraction, program loading and execution, multithreading, scheduling, 
 <summary>
 CSE334 - Computer Networks
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE334_Computer_Networks" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
@@ -126,7 +126,7 @@ Assembly language, computer arithmetic, datapath and control, pipelining, memory
 <summary>
 CSE342 - Microprocessors
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE342_Microprocessors" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
@@ -139,7 +139,7 @@ Elements of microprocessor systems. Hardware and software analysis. Addressing t
 <summary>
 CSE432 - Computer and Network Security
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE432_Computer_and_Network_Security" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
@@ -161,7 +161,7 @@ Representation of knowledge. Search and heuristic programming. Logic and logic p
 <summary>
 CSE462 - Natural Language Processing
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE462_Natural_Language_Processing" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
@@ -174,7 +174,7 @@ Levels of natural language processing: Morphological, syntactic and semantic ana
 <summary>
 CSE482 - Advanced Java Programming
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/CSE482_Advanced_Java_Programming" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
@@ -220,7 +220,7 @@ Fundamentals of relational databases, Data layout, buffer systems, file manageme
 <summary>
 SE301 - Software Engineering
 <div class="tooltip">
-<a href="https://github.com/melikegecer" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
+<a href="https://github.com/melikegecer/BachelorsProjects/tree/master/SE301_Software_Engineering" class="fa fa-github" style="font-size: 20px; margin-top: 5px; margin-left: 10px;margin-right: 10px" target="_blank"></a>
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>
