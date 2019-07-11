@@ -1,0 +1,5 @@
+# Site settings
+title: Melike Geçer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.melikegecer.github.io" # the base hostname & protocol for your site
+github_username:  melikegecer
