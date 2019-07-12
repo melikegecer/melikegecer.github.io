@@ -1,2 +1,5 @@
 # melikegecer.github.io
-Personal GitHub web site
+Technologies used; HTML, CSS, Markdown, Jekyll and Visual Studio Code
+<br>
+<br>
+My personal GitHub web site
