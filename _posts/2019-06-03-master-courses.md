@@ -34,6 +34,8 @@ Study new principles of data management
 <br>Hands on some current, hot Big Data topics
 <br>– Get exposed to recent trends / technologies / start-ups
 <br>
+Technologies used; PostgreSQL, HDFS, HBase, ArangoDB, Map Reduce, Spark and Streaming
+<br>
 <br>
 </details>
 
@@ -50,6 +52,7 @@ On successful completion of this course, you will be able to:
 <br>- Perform peephole optimization on the IR
 <br>- Generate target code (eg Java bytecode) from IR
 <br>
+Technologies used; Java 8, JavaCC, and Eclipse
 <br>
 </details>
 
@@ -66,6 +69,7 @@ Introduce basic concepts of concurrency
 <br>Get experience with the techniques
 <br>— lab sessions
 <br>
+Technologies used; Java 8 and Eclipse
 <br>
 </details>
 
@@ -81,6 +85,8 @@ Design videogames
 <br>- Include in your design commonly used algorithms for videogames
 <br>- Team collaboration
 <br>
+Technologies used; Unity and C#
+<br>
 <br>
 </details>
 
@@ -90,6 +96,7 @@ Machine Learning and Data Mining
 </summary>
 Introduction to Machine Learning & Data Mining, Simple Rules, Bayes Learning, Decision Trees, Evaluation Methodology, Rules Models, Association Rules, Nearest Neighbors (NN, k-­NN, minHash), Advanced Models, Combining Methods, Practical Exercises (WEKA), Another course on Statistical Learning Models (R)
 <br>
+Technologies used; Weka
 <br>
 </details>
 
@@ -105,6 +112,8 @@ On successful completion of this course, you will be able to:
 <br>- understand how the lambda calculus offers a basic semantic foundation for programming
 <br>- understand the role of static typing in object-oriented programming
 <br>- exercise basic skills in logic programming
+<br>
+Technologies used; Postscript, Haskell, JavaScript, Java, and Prolog
 <br>
 <br>
 </details>
@@ -137,6 +146,8 @@ Conduct your own research (on a limited amount of data)
 <br>- Limit(s) of the proposed model
 <br>Different topics (articles) on the same data
 <br>
+Technologies used; Python and Jupyter Notebook
+<br>
 <br>
 </details>
 
@@ -151,6 +162,8 @@ After the successful completion of this course, you will be able to:
 <br>- Create a new method of visualizing software systems, or
 <br>- Work on the design and implementation of programming language tools
 <br>
+Technologies used; Java, JavaParser, MySQL, SQL and NetBeans
+<br>
 <br>
 </details>
 
@@ -163,6 +176,8 @@ The main things we will learn in this course:
 <br>- Hands-on knowledge of a toolbox of social graph algorithms.
 <br>- To find and analyze communities in social media networks.
 <br>- To understand relationships in real-world social media networks.
+<br>
+Technologies used; Python and PyCharm Edu
 <br>
 <br>
 </details>
@@ -179,5 +194,6 @@ How to:
 <br>- visualize software to support program comprehension
 <br>- apply basic static and dynamic analysis techniques
 <br>
+Technologies used; Pharo
 <br>
 </details>

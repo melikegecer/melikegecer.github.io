@@ -27,6 +27,8 @@ CSE111 - Fundamentals of Programming
 </summary>
 Introduction to computers, computer programs and the Java language, identifiers, variables, assignment statements, constants, data types, casting, selections, loops, methods, arrays, strings and characters.
 <br>
+Technologies used; Java 7 and Dr.Java
+<br>
 <br>
 </details>
 
@@ -39,6 +41,8 @@ CSE112 - Object Oriented Programming
 </div>
 </summary>
 Objects and classes, constructors, static variables, constants and methods, visibility modifiers, passing objects and object arrays to methods, immutability, variable scopes, class abstraction and encapsulation, super and subclass concepts, inheritance, polymorphism, overriding, overloading, abstract classes, object-oriented design.
+<br>
+Technologies used; Java 7, UML Editor and NetBeans IDE
 <br>
 <br>
 </details>
@@ -53,6 +57,8 @@ CSE202 - Data Structures and Algorithms
 </summary>
 Algorithm analysis, linked lists, stacks, queues, trees, hashing, priority queues, sorting, graph data structures and graph algorithms.
 <br>
+Technologies used; Java 7 and NetBeans IDE
+<br>
 <br>
 </details>
 
@@ -66,6 +72,8 @@ CSE222 - Database Systems
 </summary>  
 Entity-relationship model, database conceptual design, relational algebra, SQL, storage and indexing, B+ trees, hash indexes, query evaluation, external sorting, query optimization, normalization.
 <br>
+Technologies used; MySQL, Java 7, JDBC, SQL and NetBeans IDE
+<br>
 <br>
 </details>
 
@@ -78,6 +86,8 @@ CSE252 - Human Computer Interaction
 </div>
 </summary>  
 Principles of human computer interaction. Elements of interactive computer systems, windows, and input devices. Window systems and dialogue control. Design of dialogues for interactive systems. Psychological, physiological, linguistic, and perceptual factors. Advantages and disadvantages of various interaction techniques, command language syntaxes, and data presentations. Design methodology and guidelines.
+<br>
+Technologies used; Java 8, Java FX, NetBeans IDE and Processing
 <br>
 <br>
 </details>
@@ -110,6 +120,8 @@ CSE334 - Computer Networks
 </summary>  
 Network architecture, network protocols, application layer, transport, congestion, routing, link protocols, multiple access, overview of communication architectures.
 <br>
+Technologies used; Java 8 and NetBeans IDE
+<br>
 <br>
 </details>
 
@@ -130,7 +142,9 @@ CSE342 - Microprocessors
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
-Elements of microprocessor systems. Hardware and software analysis. Addressing techniques. Input/Output devices. Communication busses and links. Design of microprocessor based systems. Laboratory experiments and applications of microprocessor based systems and single board microcomputer systems: Arithmetic operations, loops, moving blocks of memory, stack and subroutines, parallel I/O, interrupts, timer operations. 
+Elements of microprocessor systems. Hardware and software analysis. Addressing techniques. Input/Output devices. Communication busses and links. Design of microprocessor based systems. Laboratory experiments and applications of microprocessor based systems and single board microcomputer systems: Arithmetic operations, loops, moving blocks of memory, stack and subroutines, parallel I/O, interrupts, timer operations.
+<br>
+Technologies used; Arduino IDE, C++
 <br>
 <br>
 </details>
@@ -144,6 +158,8 @@ CSE432 - Computer and Network Security
 </div>
 </summary>  
 Principles and practices of cryptography, network security and secure software: Types of attacks on computer and networks, techniques used by attackers, intrusion detection, incident response procedures and solutions, managing risks. Information security policies.
+<br>
+Technologies used; Java 8 and NetBeans IDE
 <br>
 <br>
 </details>
@@ -165,7 +181,9 @@ CSE462 - Natural Language Processing
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>  
-Levels of natural language processing: Morphological, syntactic and semantic analysis. Transformational grammars. Applications in Prolog. 
+Levels of natural language processing: Morphological, syntactic and semantic analysis. Transformational grammars. Applications in Prolog.
+<br>
+Technologies used; Python, PyCharm Edu
 <br>
 <br>
 </details>
@@ -180,6 +198,8 @@ CSE482 - Advanced Java Programming
 </summary>  
 This course aims to introduce the students to some concepts of advanced Java programming and practice on reusing components. It focuses on Graphical User Interface (GUI), multithreading, networking, and database manipulation. By completing the course, the students should be able to write sophisticated Java applications.
 <br>
+Technologies used; Java 8, Java FX, JPA, JavaMail, JDBC, JUnit, MySQL and NetBeans IDE
+<br>
 <br>
 </details>
 
@@ -188,6 +208,8 @@ This course aims to introduce the students to some concepts of advanced Java pro
 CSE485 - Data Mining
 </summary>  
 The aim of this course is to introduce the basic concepts of data mining and analysis. In this regard, we will cover the following subjects: data types, data preprocessing, frequent pattern mining, clustering, classication, feature selection, and data mining applications. Students will also learn how to efectively use them in real world scenarios.
+<br>
+Technologies used; Weka
 <br>
 <br>
 </details>
@@ -204,6 +226,8 @@ This course aims to provide an understanding of the basic concepts and uses of G
 (e) spatial analysis and use spatial analysis to solve geographic problems
 (f) understand typical uses of GIS in the real world
 <br>
+Technologies used; QGIS
+<br>
 <br>
 </details>
 
@@ -212,6 +236,8 @@ This course aims to provide an understanding of the basic concepts and uses of G
 IT491 - Advanced Database Systems
 </summary>
 Fundamentals of relational databases, Data layout, buffer systems, file management, indexing techniques (tree-based and hashing). Query processing methodology, implementation of relational operators, external sorting, query optimization. Transaction models, concurrency control algorithms, database recovery.
+<br>
+Technologies used; MySQL, SQL
 <br>
 <br>
 </details>
@@ -224,7 +250,9 @@ SE301 - Software Engineering
 <span class="tooltiptext">See GitHub repository</span>
 </div>
 </summary>
-Introduction to software engineering, UML, requirements elicitation, analysis, system design, object design, testing, project management, software life cycle. 
+Introduction to software engineering, UML, requirements elicitation, analysis, system design, object design, testing, project management, software life cycle.
+<br>
+Technologies used; Java 8, JSF, JDBC, PrimeFaces, SQL, MySQL and NetBeans IDE
 <br>
 <br>
 </details>
