@@ -144,7 +144,7 @@ CSE342 - Microprocessors
 </summary>  
 Elements of microprocessor systems. Hardware and software analysis. Addressing techniques. Input/Output devices. Communication busses and links. Design of microprocessor based systems. Laboratory experiments and applications of microprocessor based systems and single board microcomputer systems: Arithmetic operations, loops, moving blocks of memory, stack and subroutines, parallel I/O, interrupts, timer operations.
 <br>
-Technologies used; Arduino IDE, C++
+Technologies used; Arduino IDE, C++ and Android Studio
 <br>
 <br>
 </details>
