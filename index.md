@@ -94,10 +94,3 @@ Attended Lab sessions with Research Assistants. Worked on a NLP research project
   - Data Scientist’s Toolbox 
 
 <br>
-
-## Hobbies
-- Watching sci-fi and action movies
-- Solving sudoku
-- Drawing
-- Music
-- Traveling
